@@ -1,5 +1,5 @@
-# 
-
+# new_sprite_with_preset_canvas
+[English](README.md) | [简体中文](orreadme/README.zh.md) 
 #Description:
 This plugin for Aseprite provides an easy way to select preset canvas sizes when creating a new Sprite. It allows users to quickly choose from predefined canvas sizes, add custom sizes, and configure color modes and background styles. With an interactive dialog, users can effortlessly create new sprites tailored to their needs, improving workflow efficiency.
 
