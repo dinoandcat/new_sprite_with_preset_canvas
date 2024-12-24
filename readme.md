@@ -1,7 +1,7 @@
 # new_sprite_with_preset_canvas
 
  [English](README.md) | [简体中文](readme/README.zh.md) 
- 
+
 
 # Description:
 This plugin for Aseprite provides an easy way to select preset canvas sizes when creating a new Sprite. It allows users to quickly choose from predefined canvas sizes, add custom sizes, and configure color modes and background styles. With an interactive dialog, users can effortlessly create new sprites tailored to their needs, improving workflow efficiency.
@@ -24,14 +24,8 @@ Automatically loads the AAP-64 palette into the new sprite, ideal for pixel art 
 
 # How to Use:
 
-After installing the plugin, go to File > Quick Sprite Canvas Setup.
+After installing the plugin, go to File > Preset Canvas Size.
 In the dialog:
 Choose a preset size or add a custom size.
 Configure the color mode and background style.
 Click OK to create a new sprite and start drawing.
-
-# Use Cases:
-
-Pixel art creation.
-Quickly setting up commonly used canvas sizes.
-Creating custom canvas sizes for specific project requirements.
