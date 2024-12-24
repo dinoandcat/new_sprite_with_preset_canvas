@@ -39,6 +39,10 @@ function init(plugin)
     end
     -- 预设画布尺寸
     local defaultPresets = {{
+        name = "32x32",
+        width = 32,
+        height = 32
+    }, {
         name = "64x64",
         width = 64,
         height = 64
