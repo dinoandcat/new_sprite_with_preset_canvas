@@ -1,0 +1,20 @@
+{
+  "name": "preset_canvas_size",
+  "displayName": "CreateSprite",
+  "description": "Create sprite  have preset size options",
+  "version": "0.2.4",
+  "author": { 
+    "name": "DinoAndCat",
+    "email": "jokerdj@126.com",
+    "url": "https://space.bilibili.com/108833837" 
+  },
+  "contributors": [],
+  "publisher": "DinoAndCat",
+  "license": "CC-BY-4.0",
+  "categories": ["Scripts"],
+  "contributes": {
+    "scripts": [
+      { "path": "./src/preset_canvas_size.lua" }
+    ]
+  }
+}
