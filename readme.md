@@ -1,4 +1,4 @@
-# new_sprite_with_preset_canvas
+# NewSpriteWithPresetCanvas
 
  [English](README.md) | [简体中文](readme/README.zh.md) 
 

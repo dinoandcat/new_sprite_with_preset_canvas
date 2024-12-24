@@ -1,4 +1,4 @@
-new_sprite_with_preset_canvas 
+NewSpriteWithPresetCanvas 
 # 说明
 为 Aseprite 提供了一个便捷的工具，允许用户在创建新精灵时快速选择预设的画布大小。
 该插件包括多个功能，增强了用户的体验和工作效率，具体如下：

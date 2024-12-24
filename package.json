@@ -1,6 +1,6 @@
 {
   "name": "preset_canvas_size",
-  "displayName": "CreateSprite",
+  "displayName": "NewSpriteWithPresetCanvas ",
   "description": "Create sprite  have preset size options",
   "version": "0.2.4",
   "author": {
